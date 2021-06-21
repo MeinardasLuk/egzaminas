@@ -17,6 +17,7 @@ include "dblog.php"
             <li><a href="index.php">Skelbimai</a> </li>
             <li><a href="#">Kategorijos</a> </li>
             <li><a href="#">Mano skelbimai</a> </li>
+            <li><a href="login.php">Prisijungti</a></li>
         </ul>
     </nav>
 </header>
